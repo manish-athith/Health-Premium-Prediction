@@ -1,4 +1,4 @@
-****Health Premium Prediction 🏥💰****
+******Health Premium Prediction 🏥💰**************
 
 A Machine Learning-powered web application built using Streamlit that predicts an individual's health insurance premium based on multiple user inputs such as age, BMI, smoking habits, number of dependents, and other health-related factors.
 
